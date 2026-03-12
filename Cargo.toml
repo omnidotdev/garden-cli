@@ -3,6 +3,7 @@ name = "garden"
 version = "0.1.0"
 edition = "2024"
 description = "Garden schema generator and CLI tool"
+license = "Apache-2.0"
 
 [lib]
 name = "garden"
