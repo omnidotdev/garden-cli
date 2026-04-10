@@ -2,8 +2,14 @@
 name = "garden"
 version = "0.1.0"
 edition = "2024"
+authors = ["Omni <team@omni.dev>"]
 description = "Garden schema generator and CLI tool"
 license = "Apache-2.0"
+repository = "https://github.com/omnidotdev/garden-cli"
+homepage = "https://garden.omni.dev"
+readme = "README.md"
+keywords = ["schema", "generator", "cli"]
+categories = ["command-line-utilities"]
 
 [lib]
 name = "garden"
